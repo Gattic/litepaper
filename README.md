@@ -1,1 +1,1 @@
-# litepaper
+# [Wiki](https://github.com/Gattic/litepaper/wiki)
